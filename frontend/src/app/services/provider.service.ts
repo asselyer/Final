@@ -13,6 +13,5 @@ export class ProviderService extends MainService {
   constructor(http: HttpClient) {
     super(http);
   }
-}
 
 }
